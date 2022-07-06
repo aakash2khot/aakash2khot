@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aakash Khot</h1>
 <h3 align="center">I am a 3rd year student at IIIT Bangalore.</h3>
-<img allign="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 
-- 📫 How to reach me **aakash.khot02@gmail.com**
-
+- 📫 Email me at **aakash.khot02@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aakash khot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash khot" height="30" width="40" /></a>
 <a href="https://fb.com/aakash khot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakash khot" height="30" width="40" /></a>
 <a href="https://instagram.com/aakash_2_khot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash_2_khot" height="30" width="40" /></a>
 </p>
