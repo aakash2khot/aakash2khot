@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash Khot</h1>
-<h3 align="center">I am a 5th year student at IIIT Bangalore, pursuing an Integrated M.Tech degree.</h3>
+<h3 align="center">I am an MTS 2 at NetApp working in the Virtualization field.</h3>
 
 - 📫 Email me at **aakash.khot02@gmail.com**
 <h3 align="left">Connect with me:</h3>
